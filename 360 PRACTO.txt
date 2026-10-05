@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Tag Examples</title>
+</head>
+
+<body>
+    <header>
+        <h2>
+            <center>Table Demo Application</center>
+        </h2>
+    </header>
+    <hr>
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Year</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Preethi</td>
+                    <td>female</td>
+                    <td>2010</td>
+                </tr>
+                <tr>
+                    <td>hema</td>
+                    <td>Female</td>
+                    <td>2008</td>
+                <tr>
+                    <td>srinivas</td>
+                    <td>male</td>
+                    <td>2000</td>
+                </tr>
+                <tr>
+                    <td>Nithin</td>
+                    <td>male</td>
+                    <td>2007</td>
+                </tr>
+                <tr>
+                    <td>jyothi</td>
+                    <td>Female</td>
+                    <td>2001</td>
+                </tr>
+
+            </tbody>
+            <tfooter>
+
+            </tfooter>
+        </table>
+    </main>
+    <hr>
+    <footer>
+
+    </footer>
